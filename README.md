@@ -1,4 +1,4 @@
-<center>
+<div style={display:flex;text-align:center;justify-content:center;}>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhinavv9258)](https://git.io/streak-stats)
