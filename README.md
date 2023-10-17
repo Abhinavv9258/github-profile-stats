@@ -7,4 +7,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv9258&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-</center>
+</div>
