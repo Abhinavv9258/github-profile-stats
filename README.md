@@ -1,6 +1,6 @@
 <h2 id="user-content-github-stats" dir="auto"><a class="heading-link" href="#github-stats">Github Stats</a></h2>
 
-<div id='github-stats' align="center" dir="auto" style={display:flex;text-align:center;justify-content:center;align-items:center;}>
+<div id='github-stats' align="center" dir="auto" >
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abhinavv9258&theme=flat)](https://git.io/streak-stats)
