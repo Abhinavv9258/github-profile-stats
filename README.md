@@ -1,4 +1,4 @@
-<h2 id="user-content-github-stats" dir="auto"><a class="heading-link" href="#github-stats">Github Stats</a></h2>
+<h2 id="user-content-github-stats" dir="auto"><a class="heading-link d-flex" href="#github-stats">Github Stats</a></h2>
 
 <div id='github-stats' align="center" dir="auto" >
 
