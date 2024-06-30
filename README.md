@@ -18,17 +18,17 @@
   <!-- GitHub Streak -->
   <p>Check out my GitHub streak! See how consistently I've been coding recently:</p>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Abhinavv9258&theme=flat)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Abhinavv9258&theme=flat)](https://github.com/Abhinavv9258/Abhinavv9258)
 
   <!-- GitHub Trophies -->
   <p>Here's a collection of my GitHub trophies, showcasing some of my achievements and milestones:</p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv9258&theme=flat)](https://github.com/Abhinavv9258/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv9258&theme=flat)](https://github.com/Abhinavv9258/Abhinavv9258)
 
   <!-- Top Languages -->
   <p>Take a look at the top programming languages I've been working with recently:</p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavv9258)](https://github.com/Abhinavv9258/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavv9258)](https://github.com/Abhinavv9258/Abhinavv9258)
   
   </div>
 
