@@ -1,5 +1,7 @@
 <h2 id="github-stats" dir="auto">
+  
   <a class="heading-link d-flex" href="#github-stats">GitHub Stats</a>
+  
 </h2>
 
 <div id="github-stats" style="padding: 20px; display: flex; justify-content: center; align-items: flex-start;">
