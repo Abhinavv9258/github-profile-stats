@@ -16,6 +16,15 @@
   </div>
 
   <div style=" display: flex; justify-content: center; align-items: center; text-align: center;">
+
+<!---
+<div align="center">
+
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinavv9258&show_icons=true&theme=dracula)
+  
+</div>
+--->
+  
     
   <!-- GitHub Streak -->
   <p>Check out my GitHub streak! See how consistently I've been coding recently:</p>
