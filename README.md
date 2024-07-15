@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Abhinavv9258&theme=flat)](https://github.com/Abhinavv9258/Abhinavv9258)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinavv9258&theme=flat)](https://github.com/Abhinavv9258/Abhinavv9258)
   
 </div>
   
@@ -30,7 +30,7 @@
   <p>Here's a collection of my GitHub trophies, showcasing some of my achievements and milestones:</p>
 
 <div align="center">
-
+zz
   [![trophy](https://github-profile-trophy.vercel.app/?username=Abhinavv9258&theme=flat)](https://github.com/Abhinavv9258/Abhinavv9258)
   
 </div>
