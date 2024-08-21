@@ -54,10 +54,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavv9258&hide_progress=true&langs_count=8&hide=hack,jupyter%20notebook,kotlin,shell,assembly&card_width=220" />
   
 </a>
-
-<!---
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavv9258&hide_progress=true&langs_count=8&hide=hack,jupyter%20notebook,kotlin,shell,assembly)](https://github.com/Abhinavv9258/Abhinavv9258)
-   --->
    
 </div>
 
