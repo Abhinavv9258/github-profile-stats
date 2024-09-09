@@ -9,10 +9,11 @@
   <div style=" text-align: left; margin-right: 20px;">
     <p>I am a fresher currently working on web development. I have experience with the following:</p>
     <ul>
-      <li><strong>Languages:</strong> JavaScript, HTML, CSS, PHP, TypeScript</li>
+      <li><strong>Languages:</strong> JavaScript, HTML, CSS, PHP, TypeScript, C/C++, Java</li>
       <li><strong>Frameworks:</strong> ReactJS, NextJS</li>
     </ul>
     <p>Here are some stats showcasing my GitHub activity and achievements:</p>
+    <p>Check out my website for more details: <a href="https://abhinav-verma.vercel.app/" target="_blank">abhinav-verma.vercel.app</a></p>
   </div>
 
   <div style=" display: flex; justify-content: center; align-items: center; text-align: center;">
