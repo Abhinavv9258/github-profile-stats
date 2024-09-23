@@ -7,7 +7,10 @@
 <div id="github-stats" style="padding: 20px; display: flex; justify-content: center; align-items: flex-start;">
   
   <div style=" text-align: left; margin-right: 20px;">
-    <p>I am a fresher currently working on web development. I have experience with the following:</p>
+    <p>
+  I am a fresher in web development with experience in JavaScript, HTML, CSS, PHP and C/C++ along with ReactJS and NextJS. I am looking for opportunities to apply my skills and grow as a developer by working on interesting projects.
+    
+  I have experience with the following:</p>
     <ul>
       <li><strong>Languages:</strong> JavaScript, HTML, CSS, PHP, TypeScript, C/C++, Java</li>
       <li><strong>Frameworks:</strong> ReactJS, NextJS</li>
